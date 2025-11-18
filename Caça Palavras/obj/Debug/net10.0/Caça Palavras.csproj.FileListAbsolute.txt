@@ -1,0 +1,14 @@
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\bin\Debug\net10.0\Caça Palavras.exe
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\bin\Debug\net10.0\Caça Palavras.deps.json
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\bin\Debug\net10.0\Caça Palavras.runtimeconfig.json
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\bin\Debug\net10.0\Caça Palavras.dll
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\bin\Debug\net10.0\Caça Palavras.pdb
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\obj\Debug\net10.0\Caça Palavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\obj\Debug\net10.0\Caça Palavras.AssemblyInfoInputs.cache
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\obj\Debug\net10.0\Caça Palavras.AssemblyInfo.cs
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\obj\Debug\net10.0\Caça Palavras.csproj.CoreCompileInputs.cache
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\obj\Debug\net10.0\Caça Palavras.dll
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\obj\Debug\net10.0\refint\Caça Palavras.dll
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\obj\Debug\net10.0\Caça Palavras.pdb
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\obj\Debug\net10.0\Caça Palavras.genruntimeconfig.cache
+C:\Users\pinhe\OneDrive\Área de Trabalho\Caça Palavras\Caça Palavras\Caça Palavras\obj\Debug\net10.0\ref\Caça Palavras.dll
